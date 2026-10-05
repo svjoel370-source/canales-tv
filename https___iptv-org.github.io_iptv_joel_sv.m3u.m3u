@@ -1,0 +1,48 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Canal2.sv@SD" tvg-logo="https://i.postimg.cc/BQFwRpZM/Canal-2-TCS.png" group-title="CANALES NACIONALES",Canal 2 (El Salvador) (720p)
+http://186.33.26.18:8000/play/a0qp/index.m3u8
+#EXTINF:-1 tvg-id="Canal3Impresionante.sv@SD" tvg-logo="https://i.imgur.com/mdfiWG9.png" group-title="CANALES NACIONALES",Canal 3 Impresionante (480p)
+https://cloud2.streaminglivehd.com:2020/hls/8036/8036.m3u8
+#EXTINF:-1 tvg-id="Canal4.sv@SD" tvg-logo="https://i.postimg.cc/2jZqWLS8/Canal-4-TCS.png" group-title="CANALES NACIONALES",Canal 4 (El Salvador) (1080p)
+https://signal.teleon.live/play/pSMNHw5CDaRAa42aYKEngiSMKY-9lBIvx6SzuUPG0TEEymDE4UmaJdv1ux5m4STt_fzWUGKe2u2MH4wZr1AHT0HjmvCDy3ayzag.m3u8?token=test
+#EXTINF:-1 tvg-id="Canal6.sv@SD" tvg-logo="https://i.imgur.com/M4muPLK.png" group-title="CANALES NACIONALES",Canal 6 (El Salvador) (720p)
+http://45.167.2.101:8000/play/a0qs/index.m3u8
+#EXTINF:-1 tvg-id="Canal9LaUnion.sv@SD" tvg-logo="https://i.imgur.com/rdeUErb.png" group-title="General",Canal 9 La Union (1080p)
+http://45.167.2.101:8000/play/a0r5/index.m3u8
+#EXTINF:-1 tvg-id="Canal11TuTV.sv@SD" tvg-logo="https://i.imgur.com/itqQEux.png" group-title="CANALES NACIONALES",Canal 11 TuTV (349p)
+https://stream.giostreaming.app/canal11/canal11.m3u8
+#EXTINF:-1 tvg-id="Canal10.sv@SD" tvg-logo="https://i.imgur.com/y2ppMnY.png" group-title="CANALES NACIONALES",Canal 10 (El Salvador) (720p)
+https://5ca3e84a76d30.streamlock.net/tves/videotves/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal12.sv@SD" tvg-logo="https://i.imgur.com/WMv3yEf.png" group-title="CANALES NACIONALES",Canal 12 (576p)
+http://186.33.26.18:8000/play/a0nw/index.m3u8
+#EXTINF:-1 tvg-id="MegavisionCanal19.sv@SD" tvg-logo="https://i.postimg.cc/WpC0g77x/logo-sin-senal-19.png" group-title="CANALES NACIONALES",Megavision Canal 19 (720p)
+https://mgvchannel19-ioriver-cdn.encoders.immergo.tv/master.m3u8
+#EXTINF:-1 tvg-id="MegavisionCanal21.sv@SD" tvg-logo="https://i.imgur.com/HbdYU9k.png" group-title="CANALES NACIONALES",Megavision Canal 21 (720p)
+https://mgvchannel21-ioriver-cdn.encoders.immergo.tv/master.m3u8
+#EXTINF:-1 tvg-id="TVOCanal23.sv@SD" tvg-logo="https://i.imgur.com/nsXXEUZ.png" group-title="CANALES NACIONALES",TVO Canal 23 (720p)
+https://tvo.flynetwifi.com/5crjmr1645tqt71ovagufgc1x3d/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal25.sv@SD" tvg-logo="https://i.imgur.com/fyCC8R6.png" group-title="CANALES NACIONALES",Canal 25 (El Salvador) (1080p)
+http://ispmanager.flynetwifi.com:1935/tvm/tvm.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="RTVCanal57.sv@SD" tvg-logo="https://i.imgur.com/tnOGWqL.png" group-title="CANALES NACIONALES",RTV Canal 57 (720p)
+https://stream.giostreaming.app/rtvcanal57/rtvcanal57.m3u8
+#EXTINF:-1 tvg-id="SolTV.sv@SD" tvg-logo="https://i.imgur.com/jaBxxpt.png" group-title="CANALES NACIONALES",SolTV (El Salvador) (720p)
+https://videostream.shockmedia.com.ar/hls/canalsoltv/canalsoltv.m3u8
+#EXTINF:-1 tvg-id="CanalTRV.sv@SD" tvg-logo="https://i.imgur.com/g5QKQ2E.png" group-title="General",Canal TRV (576p)
+https://stream.ontvmx.com/ontv/CNMLXR0Z6FPtGdjcI4/playlist.m3u8
+#EXTINF:-1 tvg-id="SVPlus.sv@SD" tvg-logo="https://i.imgur.com/bCcnLVL.png" group-title="CANALES NACIONALES",SV+ (720p)
+http://45.167.2.101:8000/play/a0qx/index.m3u8
+#EXTINF:-1 tvg-id="TVCNetwork.sv@SD" tvg-logo="https://i.imgur.com/S1xiWB3.png" group-title="CANALES NACIONALES" http-referrer="https://player.castr.com/live_d0b3cf70e24111ed8ed2951b4c7d1b75" referrer="https://player.castr.com/live_d0b3cf70e24111ed8ed2951b4c7d1b75",TVC Network (720p) [Not 24/7]
+#EXTVLCOPT:http-referrer=https://player.castr.com/live_d0b3cf70e24111ed8ed2951b4c7d1b75
+https://stream.castr.com/643880749cf895435bf8eadf/live_d0b3cf70e24111ed8ed2951b4c7d1b75/index.m3u8
+#EXTINF:-1 tvg-id="ElCaminoTV.sv@SD" tvg-logo="https://i.imgur.com/ZSktjGB.png" group-title="CANALES NACIONALES",El Camino TV (480p)
+https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8
+#EXTINF:-1 tvg-id="MizpaTV.sv@SD" tvg-logo="https://i.imgur.com/4FPaLYo.jpeg" group-title="CANALES NACIONALES",Mizpa TV (1080p)
+http://45.167.2.101:8000/play/a0r7/index.m3u8
+#EXTINF:-1 tvg-id="TVCRET.sv@SD" tvg-logo="https://i.imgur.com/ChonoKb.png" group-title="CANALES NACIONALES",TV CRET (1080p)
+https://radiocret.net:8082/hls/tvcret.m3u8
+#EXTINF:-1 tvg-id="TVGetsemani.sv@SD" tvg-logo="https://i.imgur.com/C9SJCcE.jpg" group-title="CANALES NACIONALES",TV Getsemani (720p)
+https://serversv.com:8080/hls/tvgetsemani.m3u8
+#EXTINF:-1 tvg-id="TVLeondeJuda.sv@SD" tvg-logo="https://i.imgur.com/ZUCppwi.png" group-title="CANALES NACIONALES",TV Leon de Juda (720p)
+https://6110f70ea8d0e.streamlock.net/1838/1838/playlist.m3u8
+#EXTINF:-1 tvg-id="AgapeTV.sv@SD" tvg-logo="https://i.imgur.com/DsGmrnc.png" group-title="CANALES NACIONALES",Agape TV (720p)
+https://5fc584f3f19c9.streamlock.net/agape/smil:agape.smil/playlist.m3u8
